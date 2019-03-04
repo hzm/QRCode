@@ -2,7 +2,9 @@
 create QRCode in UE4(Tested in 4.21)
 
 use UQRCodeBlueprintFunctionLibrary::GenerateQRCodeTexture to create dynamic QRCode Texture.
+
 use UQRCodeBlueprintFunctionLibrary::GenerateQRCodeBitmap to create dynamic QRcode and save as bmp.
+
 use UQRCodeBlueprintFunctionLibrary::GenerateQRCodeImageByType to create dynamic QRcode and save as png or jpg.
 
 
