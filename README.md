@@ -10,7 +10,7 @@ use UQRCodeBlueprintFunctionLibrary::GenerateQRCodeImageByType to create dynamic
 
 # Special Thanks
 ThirdParty：
-libqrencode（https://github.com/fukuchi/libqrencode）
+libqrencode 4.0.2（https://github.com/fukuchi/libqrencode）
 
 reference：
 https://blog.csdn.net/kupepoem/article/details/43307387
