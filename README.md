@@ -1,5 +1,5 @@
 # QRCode
-create QRCode in UE4(Tested in 4.21)
+create QRCode in UE4(Tested in 4.21 Editor and Game)
 
 use UQRCodeBlueprintFunctionLibrary::GenerateQRCodeTexture to create dynamic QRCode Texture.
 
