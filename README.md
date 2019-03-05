@@ -13,6 +13,7 @@ ThirdParty：
 libqrencode 4.0.2（https://github.com/fukuchi/libqrencode）
 
 reference：
+https://wiki.unrealengine.com/Dynamic_Textures
 https://blog.csdn.net/kupepoem/article/details/43307387
 https://blog.csdn.net/u014532636/article/details/77848185
 
